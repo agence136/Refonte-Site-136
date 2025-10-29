@@ -8031,17 +8031,23 @@ body.tax-product_cat #dsn_header {
 
 .service-tag {
   background-color: #373737;
-  color:white;
+  color: white;
 }
 
-.agence-btn{
-  background-color:#373737;
+.agence-btn {
+  background-color: #373737;
 }
 
-.article-detail{
-  margin-top:150px;
+.article-detail {
+  margin-top: 150px;
 }
 
+.contact-page {
+  margin-top: 100px;
+}
 
+.contact-btn{
+  background-color: #373737;
+}
 
 
